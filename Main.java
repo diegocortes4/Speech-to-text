@@ -1,6 +1,5 @@
 import com.google.cloud.speech.v1p1beta1.*;
 import com.google.protobuf.ByteString;
-
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
